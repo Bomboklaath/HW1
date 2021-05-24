@@ -1,0 +1,9 @@
+.iscrizione{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+span{
+    color: white;
+}

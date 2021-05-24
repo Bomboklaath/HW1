@@ -1,0 +1,16 @@
+#button {
+    padding: 7px 10px;
+    border: 2px solid white;
+    border-radius: 20px;
+    border: 1;
+    display: inline-block;
+    font-size: 100%;
+    padding: 7px;
+    font-family: 'Lobster', Verdana;
+  }
+  #button:hover{
+background-color: chartreuse;
+color: black;
+  }
+
+  
